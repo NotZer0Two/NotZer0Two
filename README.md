@@ -30,7 +30,7 @@ A **Minecraft Plugginer** ***Zer0Two*** 🚀.
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
 - 🤔 My interest Disturbing server without any proof and ban him.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Im working at VinnyHub.com.
+- 📫 Im working at ZeroRaid.
 
 
 
